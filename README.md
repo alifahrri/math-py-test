@@ -1,2 +1,5 @@
 # math-py-test
-python embedding demo
+Python embedding demo
+
+This project shows how to embed python code in c++ program using boost.python library
+
